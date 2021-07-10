@@ -1,8 +1,8 @@
 function App() {
   return (
     <>
-    <h1>Mi primera Aplicacion</h1>
-    <p>Esta es mi primera aplicacion en React, esta padrisimo!</p>
+    <h1>Mi primera aplicación</h1>
+    <p>Esta es mi primera aplicación en React, está padrísimo!</p>
     </>
   );
 }
